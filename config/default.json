@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://admin:oclock12@cluster0.lzdk3.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "radaykin dev map"
+}
